@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦅 Acauã
+# Acauã
 
 ### Sistema de Monitoramento e Gestão de Ocorrências de Perturbação do Sossego
 
@@ -10,7 +10,7 @@
 [![JWT](https://img.shields.io/badge/Auth-JWT%20%2F%20RBAC-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-*Tornando o trabalho das forças de segurança pública **stateful** — do primeiro aviso à apreensão com respaldo legal e rastreabilidade total.*
+*Tornando o trabalho das forças de segurança pública do primeiro aviso à apreensão com respaldo legal e rastreabilidade total.*
 
 </div>
 
